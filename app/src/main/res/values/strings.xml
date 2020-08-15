@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Urban Dictionary Android</string>
+    <string name="enter_an_item">Enter an item</string>
+    <string name="word">Word</string>
+    <string name="definition">Definition</string>
+    <string name="title_activity_word_definition">WordDefinitionActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="definition_descr">Definition</string>
+    <string name="likes">Likes</string>
+    <string name="dislikes">Dislikes</string>
+</resources>
